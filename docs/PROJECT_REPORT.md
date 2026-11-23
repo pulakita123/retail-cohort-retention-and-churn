@@ -1,4 +1,4 @@
-# Project Report: Customer Cohort Retention & Churn Analysis
+# Beyond the Purchase: Cohort Retention & Churn Analysis — Project Report
 
 ## Overview
 
