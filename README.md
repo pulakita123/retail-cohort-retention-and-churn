@@ -1,4 +1,4 @@
-# Customer Cohort Retention & Churn Analysis
+# Beyond the Purchase: Cohort Retention & Churn Analysis
 
 A customer-lifecycle analysis of a retail transaction dataset using Python. I used cohort analysis to understand repeat purchasing over time, then examined how purchase frequency relates to inactivity-based churn.
 
